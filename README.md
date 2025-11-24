@@ -41,7 +41,7 @@ Android & Web Development
 Android & Web Development Intern
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit2569&theme=highcontrast" height="160" /> <img src="https://github-readme-stats.vercel.app/api?username=Harshit2569&show_icons=true&theme=highcontrast" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit2569&layout=compact&theme=highcontrast" height="150" /> </p>
+ </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit2569&layout=compact&theme=highcontrast" height="150" /> </p>
 🌐 Connect With Me
 <p align="left">
   <a href="https://github.com/Harshit2569">
