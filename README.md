@@ -99,7 +99,6 @@ Always learning and staying updated with:
 - Latest React & React Native patterns
 - Modern backend architecture
 - Performance optimization techniques
-- Web3 & emerging technologies
 
 ---
 
