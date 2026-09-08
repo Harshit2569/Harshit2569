@@ -1,69 +1,139 @@
-## Hi there 👋
+# Hi there 👋 I'm Harshit Upadhyay
 
-<!--
-**Harshit2569/Harshit2569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile & Web Developer | React Native | React.js | Redux | Node.js | Express.js**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🚀 Hi there, I'm Harshit Upadhyay
-<p align="center"></p>
-📱 Mobile & Web Developer | React Native | React.js | Redux | Nodejs | Express Js
-🧾 Summary
+## 🚀 About Me
 
-Mobile-Development Intern with experience in building Android, iOS, and Web applications using React Native, Redux, and REST APIs.
-Worked on live apps implementing real-time communication (WebRTC), secure payments (Razorpay), notifications, and scalable UI systems.
-Also developed modern, responsive web interfaces in React.js with optimized performance and clean UI architecture.
+Mobile-first developer with hands-on experience building scalable Android, iOS, and web applications. Passionate about creating seamless user experiences and robust backend systems. Specialized in real-time communication, secure payments integration, and modern UI architecture.
 
-🎨 Tech Stack
-Languages
-<p> <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" /> </p>
-Frameworks
-<p> <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux" /> <img src="https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo" /> <img src="https://img.shields.io/badge/ExpressJS-000?style=for-the-badge&logo=express" /> <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" /> </p>
-Tools & Tech
-<p> <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" /> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase" /> <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman" /> <img src="https://img.shields.io/badge/REST%20APIs-000?style=for-the-badge&logo=api" /> </p>
-💼 Work Experience
-🔧 MechBuddy — Jabalpur | Oct 2025 – Present
+**Key Strengths:**
+- Cross-platform mobile development (React Native)
+- Modern React.js web applications with Redux state management
+- RESTful backend APIs with Node.js & Express
+- Real-time features (WebRTC), payment processing, and push notifications
+- Performance optimization and clean code architecture
 
-Android & Web Development 
+---
 
+## 💻 Tech Stack
 
-🚀 Crimsons System — Jabalpur | Jan 2025 – Sept 2025
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-Android & Web Development Intern
+### **Frameworks & Libraries**
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-📊 GitHub Stats
- </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit2569&layout=compact&theme=highcontrast" height="150" /> </p>
-🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/Harshit2569">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  </a>
+### **Tools & Services**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0078D4?style=flat&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-0095DE?style=flat&logo=webrtc&logoColor=white)
 
-  <a href="https://www.linkedin.com/in/harshit-upadhyay-88b5991b7">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-  </a>
+---
 
-  <a href="https://x.com/harshitupa20048">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50"/>
-  </a>
+## 💼 Work Experience
 
-  <!-- Portfolio Website -->
-  <a href="https://harshitports.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=wordpress" width="50"/>
-  </a>
-</p>
+### **Android & Web Developer**
+**MechBuddy** — Jabalpur | *Oct 2025 – Present*
+- Developing Android and responsive web applications
+- Building scalable UI components and features
+- Collaborating with cross-functional teams
 
-👀 Visitor Counter
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit2569&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> </p>
-✨ Quote
+### **Android & Web Development Intern**
+**Crimsons System** — Jabalpur | *Jan 2025 – Sept 2025*
+- Built Android and iOS applications using React Native
+- Implemented real-time communication features with WebRTC
+- Integrated secure payment solutions (Razorpay)
+- Developed modern web interfaces with React.js & Redux
+- Optimized application performance and UX
+- Worked with REST APIs and backend integration
 
-“Code. Build. Break. Fix. Repeat. That’s how developers grow.”
+---
+
+## 🔥 Key Projects & Accomplishments
+
+- **Real-time Communication Apps** - Implemented WebRTC for seamless video/audio communication
+- **E-Commerce Integration** - Integrated Razorpay for secure payment processing
+- **Push Notifications** - Built notification systems for timely user engagement
+- **State Management** - Architected Redux solutions for complex app states
+- **Responsive UI** - Created mobile-first, accessible interfaces across platforms
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harshit-upadhyay&theme=radical)](https://git.io/streak-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-upadhyay&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Deepening expertise in full-stack development
+- Exploring advanced React patterns and performance optimization
+- Building production-grade applications
+- Contributing to open-source projects
+
+---
+
+## 📚 Learning & Growth
+
+Always learning and staying updated with:
+- Latest React & React Native patterns
+- Modern backend architecture
+- Performance optimization techniques
+- Web3 & emerging technologies
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-upadhyay)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit-upadhyay)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshit_upadhyay)
+
+</div>
+
+---
+
+## ✨ Philosophy
+
+> "Code. Build. Break. Fix. Repeat. That's how developers grow." 
+> 
+> Every challenge is an opportunity to learn and improve.
+
+---
+
+## 📈 Let's Build Something Amazing!
+
+I'm always open to collaborating on interesting projects, discussing tech, or sharing knowledge. Feel free to reach out!
+
+**Last Updated:** September 2026
+
+---
+
+<div align="center">
+
+👀 **Visitor Counter** | ⭐ **If you like my work, don't forget to star the repos!**
+
+</div>
